@@ -1,0 +1,23 @@
+﻿fecha;producto;categoria;unidades;precio_unitario
+2026-09-01;Laptop;;2;899.99
+2026-09-01;;Informática;8;24.5
+2026-09-02;Teclado;Informática;5;49.9
+2026-09-02;Monitor;Informática;3;249.99
+2026-09-03;Camiseta;Ropa;10;19.95
+2026-09-03;Pantalón;Ropa;6;39.9
+2026-09-04;Zapatillas;Ropa;4;74.99
+2026-09-04;Mochila;Accesorios;7;35.0
+2026-09-05;Auriculares;Electrónica;9;59.99
+2026-09-05;Altavoz;Electrónica;3;89.95
+2026-09-06;Cafetera;Hogar;2;129.9
+2026-09-06;Tostadora;Hogar;5;44.95
+2026-09-07;Lámpara;Hogar;8;29.99
+2026-09-08;Libro;Cultura;12;18.5
+2026-09-08;Cuaderno;Papelería;15;4.75
+2026-09-09;Bolígrafo;Papelería;30;1.5
+2026-09-10;Tablet;Informática;3;329.99
+2026-09-10;Webcam;Informática;6;69.9
+2026-09-11;Chaqueta;Ropa;4;
+2026-09-12;Perfume;Cosmética;;54.9
+2026-09-12;Crema facial;Cosmética;10;22.9
+2026-09-13;Cargador;Electrónica;11;25.99
